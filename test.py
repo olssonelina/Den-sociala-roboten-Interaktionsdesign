@@ -1,5 +1,6 @@
-from guizero import App
+from guizero import App, Text
 
-app = App(title="Hello world")
+app = App(title="Den Sociala Roboten")
+
 app.display()
 
